@@ -1,0 +1,22 @@
+p{
+    width: 200px;
+    height: 200px;
+}
+#flex{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+#blue{
+    background-color: blue;
+}
+#black{
+    background-color: black;
+}
+#red{
+    background-color: red;
+}
+#green
+{
+    background-color: green;
+}
